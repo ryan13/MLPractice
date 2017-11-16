@@ -1,0 +1,10 @@
+---
+title: "Resource"
+author: "Tri_Doan"
+date: "November 15, 2017"
+output: html_document
+---
+List here is resources that can provides other missing or indepth information
+
+http://bogotobogo.com/python/scikit-learn/scikit_machine_learning_Data_Preprocessing-Missing-Data-Categorical-Data.php
+
